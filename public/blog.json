@@ -1,0 +1,43 @@
+[
+          {
+            "id": 1,
+            "cover": "https://i.ibb.co.com/Zz4sjJP/1.jpg",
+            "title": "Mastering ES6: Key Features for Modern JavaScript Development",
+            "author_img": "https://i.ibb.co.com/DrZL4T4/boy1.png",
+            "author": "Dr. Alice Roberts",
+            "post_date": "2024-11-01",
+            "reading_time": 8,
+            "hashtag": ["#JavaScript", "#ES6", "#Programming"]
+          },
+          {
+            "id": 2,
+            "cover": "https://i.ibb.co.com/BtYyg0C/3.png",
+            "title": "Getting Started with React: A Beginner’s Guide",
+            "author_img": "https://i.ibb.co.com/g6vyTnr/boy2.jpg",
+            "author": "Johnathan Lee",
+            "post_date": "2024-10-28",
+            "reading_time": 6,
+            "hashtag": ["#React", "#WebDevelopment", "#Frontend"]
+          },
+          {
+            "id": 3,
+            "cover": "https://i.ibb.co.com/3rT4jvZ/2.png",
+            "title": "A Beginner's Guide to Cybersecurity Essentials",
+            "author_img": "https://i.ibb.co.com/R37Szcx/girl1.jpg",
+            "author": "Sophia Chen",
+            "post_date": "2024-10-15",
+            "reading_time": 10,
+            "hashtag": ["#Cybersecurity", "#BeginnersGuide", "#KnowledgeCafe"]
+          },
+          {
+            "id": 4,
+            "cover": "https://i.ibb.co.com/QFjSLkr/4.jpg",
+            "title": "Building Interactive UIs with React and ES6",
+            "author_img": "https://i.ibb.co.com/2SwtQYP/girl2.jpg",
+            "author": "Carlos Mendez",
+            "post_date": "2024-09-30",
+            "reading_time": 7,
+            "hashtag": ["#React", "#ES6", "#UI"]
+          }
+        ]
+        
