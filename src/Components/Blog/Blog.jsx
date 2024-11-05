@@ -1,20 +1,17 @@
-import { useEffect } from "react";
-import { useState } from "react";
 
+import PropTypes from 'prop-types'
+const Blog = ({blog}) => {
 
-const Blog = () => {
-          const [blog, setBlog] = useState([])
-
-          useEffect(()=>{
-                    fetch('blog.json')
-                    .then(res =>res.json())
-                    .then(data => setBlog(data))
-          },[])
+          console.log(blog)
           return (
                     <div>
                               
                     </div>
           );
 };
+
+Blog.propType = {
+          blog : PropTypes.object.isRequired
+}
 
 export default Blog;

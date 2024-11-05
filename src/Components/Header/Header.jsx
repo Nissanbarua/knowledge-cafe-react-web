@@ -1,7 +1,11 @@
+import profile from '../../assets/profile.png'
+
 const Header = () => {
+
   return (
-    <div>
-      <h1 className="text-6xl">Knowledge Cafe</h1>
+    <div className="flex justify-between container mx-auto p-4 border-b-2">
+      <h1 className="text-5xl font-bold">Knowledge Cafe</h1>
+      <img src={profile} alt="Profile Pic " />
     </div>
   );
 };
